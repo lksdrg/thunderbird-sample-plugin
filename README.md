@@ -1,2 +1,1 @@
-# thunderbird-sample-plugin
-Used to demonstrate plugin behavior
+Showcase package usage in message-content-script
